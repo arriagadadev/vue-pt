@@ -28,7 +28,7 @@ Crear una app web que contenga un CRUD de items de un inventario, haciendo uso d
 ## Fuente de datos
 
 A continuación se detallan los endpoints, el contenido de sus solicitudes y el contenido de sus respuestas.
-También se puede hacer uso de este [Postman Collection](https://drive.google.com/file/d/15-pksgpBg7bWDLhmGEWa_wpD0QotRa8R/view?usp=sharing) que concentra la misma información.
+También se puede hacer uso de este [Postman Collection](https://drive.google.com/file/d/1QbATqaxkAW79BfOfLm6cvRD1HSb_2sCG/view?usp=sharing) que concentra la misma información.
 
 Endpoint base: https://pt.arriagada.dev/api
 
