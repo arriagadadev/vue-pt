@@ -8,7 +8,7 @@
 
 ## Objetivo
 
-Crear una app web que contenga un CRUD de inventarios, haciendo uso de la API REST de prueba que se encuentra en este mismo archivo de instrucciones.
+Crear una app web que contenga un CRUD de items de un inventario, haciendo uso de la API REST de prueba que se encuentra en este mismo archivo (README.md).
 
 ## Requerimientos
 
@@ -16,6 +16,8 @@ Crear una app web que contenga un CRUD de inventarios, haciendo uso de la API RE
 * Utilizar Vue 2 como framework frontend
 * Usar Vuetify como biblioteca de componentes
 * Usar Vue Router y Vuex donde se considere necesario
+* Implementar al menos dos vistas
+* Utilizar la información del endpoint "/categories" para construir el selector de categorías en la vista de edición/creación de items
 * No es necesario incluir un paginador, es suficiente con que se muestre la primera página
 * No es necesario incluir un login, se puede usar un token estático
 
@@ -26,7 +28,7 @@ Crear una app web que contenga un CRUD de inventarios, haciendo uso de la API RE
 ## Fuente de datos
 
 A continuación se detallan los endpoints, el contenido de sus solicitudes y el contenido de sus respuestas.
-También se puede hacer uso de este [Postman Collection](https://drive.google.com/file/d/1S_HRfbR3gfqtQH1wKljFMGFfwfWE7acN/view?usp=sharing) que concentra la misma información.
+También se puede hacer uso de este [Postman Collection](https://drive.google.com/file/d/15-pksgpBg7bWDLhmGEWa_wpD0QotRa8R/view?usp=sharing) que concentra la misma información.
 
 Endpoint base: https://pt.arriagada.dev/api
 
