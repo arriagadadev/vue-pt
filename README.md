@@ -27,9 +27,13 @@ Crear una app web que contenga un CRUD de inventarios, haciendo uso de la API RE
 
 A continuación se detallan los endpoints, el contenido de sus solicitudes y el contenido de sus respuestas.
 También se puede hacer uso de este [Postman Collection](https://drive.google.com/file/d/1S_HRfbR3gfqtQH1wKljFMGFfwfWE7acN/view?usp=sharing) que concentra la misma información.
+
 Endpoint base: https://pt.arriagada.dev/api
+
 Método de autenticación: Bearer TOKEN
+
 Email: demo@demo.cl
+
 Password: demo
 
 #### POST /login
