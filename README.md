@@ -40,7 +40,7 @@ Password: demo
 
 #### POST /login
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
@@ -71,7 +71,7 @@ Content-Type: application/json
 
 #### GET /items
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
@@ -113,7 +113,7 @@ Authorization: Bearer [TOKEN]
 
 #### GET /item/{itemId}
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
@@ -136,7 +136,7 @@ Authorization: Bearer [TOKEN]
 
 #### POST /item
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
@@ -172,7 +172,7 @@ Authorization: Bearer [TOKEN]
 
 #### PUT /item
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
@@ -209,7 +209,7 @@ Authorization: Bearer [TOKEN]
 
 #### DELETE /item/{itemId}
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
@@ -226,7 +226,7 @@ Authorization: Bearer [TOKEN]
 
 #### GET /categories
 
-Headers:
+##### Headers:
 
 Accept: application/json
 
