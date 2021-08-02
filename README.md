@@ -217,7 +217,3 @@ Authorization: Bearer [TOKEN]
 ]
 ```
 
-## Cómo entregar
-* Clonar este repositorio en su máquina local
-* Crear una nueva rama utilizando su nombre completo
-* Crear una pull request de esa rama
