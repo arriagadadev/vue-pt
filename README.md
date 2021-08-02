@@ -41,7 +41,9 @@ Password: demo
 #### POST /login
 
 Headers:
+
 Accept: application/json
+
 Content-Type: application/json
 
 ##### Request body:
@@ -70,8 +72,11 @@ Content-Type: application/json
 #### GET /items
 
 Headers:
+
 Accept: application/json
+
 Content-Type: application/json
+
 Authorization: Bearer [TOKEN]
 
 ##### Response:
@@ -109,8 +114,11 @@ Authorization: Bearer [TOKEN]
 #### GET /item/{itemId}
 
 Headers:
+
 Accept: application/json
+
 Content-Type: application/json
+
 Authorization: Bearer [TOKEN]
 
 ##### Response:
@@ -127,6 +135,14 @@ Authorization: Bearer [TOKEN]
 ```
 
 #### POST /item
+
+Headers:
+
+Accept: application/json
+
+Content-Type: application/json
+
+Authorization: Bearer [TOKEN]
 
 ##### Body request:
 ```javascript
@@ -155,6 +171,14 @@ Authorization: Bearer [TOKEN]
 ```
 
 #### PUT /item
+
+Headers:
+
+Accept: application/json
+
+Content-Type: application/json
+
+Authorization: Bearer [TOKEN]
 
 ##### Body request:
 ```javascript
@@ -185,6 +209,14 @@ Authorization: Bearer [TOKEN]
 
 #### DELETE /item/{itemId}
 
+Headers:
+
+Accept: application/json
+
+Content-Type: application/json
+
+Authorization: Bearer [TOKEN]
+
 ##### Response:
 ```javascript
 {
@@ -193,6 +225,14 @@ Authorization: Bearer [TOKEN]
 ```
 
 #### GET /categories
+
+Headers:
+
+Accept: application/json
+
+Content-Type: application/json
+
+Authorization: Bearer [TOKEN]
 
 ##### Response:
 ```javascript
